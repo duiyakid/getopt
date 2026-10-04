@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="getopt/getopt.vcxproj" Id="ad76a4ac-578b-4602-8b13-909a31fc7814" />
+</Solution>
